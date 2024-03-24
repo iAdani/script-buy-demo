@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "script-buy3",
+    "slug": "script-buy3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "bundleIdentifier": "com.iAdani.ScriptBuy"
+    },
+    "android": {
+      "package": "com.iAdani.ScriptBuyAndroid",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d6f1c050-2326-4336-b621-cd50fcba1acd"
+      }
+    },
+    "sdkVersion": "48.0.0"
+  },
+  "name": "script-buy3"
+}
