@@ -1,5 +1,8 @@
 # script-buy project
 
+## Video
+https://www.youtube.com/watch?v=d1TkdRhNiVo
+
 ## Description
 
 
