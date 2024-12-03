@@ -1,10 +1,11 @@
 # script-buy project
+NOTE: This is a demo repository, the original project is private for security reasons.
 
 ## Video
 https://www.youtube.com/watch?v=d1TkdRhNiVo
 
 ## Description
-
+We developed a smart shopping platform with advanced web crawling algorithms, enhancing user convenience by automating price comparisons.
 
 ## Installation
 
