@@ -6,6 +6,7 @@ https://www.youtube.com/watch?v=d1TkdRhNiVo
 
 ## Description
 We developed a smart shopping platform with advanced web crawling algorithms, enhancing user convenience by automating price comparisons.
+It is worth mentioning that we had to learn by ourselves React Native and GoLang for that project.
 
 ## Installation
 
